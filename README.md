@@ -1,16 +1,25 @@
 ## Hi there 👋
+# Hi 👋, I'm JANHAVI RATHORE
 
-<!--
-**JANHAVIRATHORE/JANHAVIRATHORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Beginner Developer | 🎨 Creative Editor | 🚀 Learning New Skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 BCA Student
+- 💡 Interested in AI, Coding & Creative Editing
+- 🌱 Currently learning:
+  - C#
+  - Python
+  - Git & GitHub
+  - AI Projects
+- ⚡ Fun fact: I enjoy combining creativity with technology
+
+---
+
+## 📌 Current Goals
+- 🚀 Build AI & IoT projects
+- 📚 Improve coding skills
+- 🌍 Learn open-source contribution
+
+---
